@@ -12,4 +12,6 @@ Criando um phishing e testando a captura de senha em um site falso, utilizando K
 
 ## Resultados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./iconevisualizar.PNG "Pegando ícone")
+
+![Alt text](./passwd.png "Pegando login")
